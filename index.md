@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: test hero
+      title: test test
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
