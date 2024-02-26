@@ -4,4 +4,5 @@ collections:
     order:
       - Test subfolder/subfolder-page.md
       - Test subfolder/.keep
+      - example-subfolder/folder-page.md
       - example-subfolder/.keep
